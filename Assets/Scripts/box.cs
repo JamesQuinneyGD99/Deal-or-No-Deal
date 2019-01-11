@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// James Quinney | QUI16000158
+
 public class box : MonoBehaviour {
     public Text boxText; // This is the text object on the front of the box
     public int boxNumber; // This is the box's number
