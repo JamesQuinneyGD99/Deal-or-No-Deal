@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// James Quinney | QUI16000158
+
 public class deal : MonoBehaviour {
     public banker bankerScript; // We send our choice to the banker
     public bool isDeal; // Whether this is the deal or no deal button
