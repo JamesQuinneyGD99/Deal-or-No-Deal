@@ -1,7 +1,9 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+
+// James Quinney | QUI16000158
 
 public class banker : MonoBehaviour {
     public box_container boxContainer; // This allows the banker to interact with the box container
