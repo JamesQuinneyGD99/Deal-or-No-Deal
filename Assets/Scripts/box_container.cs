@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+// James Quinney | QUI16000158
+
 public class box_container : MonoBehaviour {
     public GameObject boxPrefab; // These are the money boxes which are opened by the player
     public List<float> boxValues; // This is the values in each of the boxes
