@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// James Quinney | QUI16000158
+
 public class sidepanel_generator : MonoBehaviour {
     public GameObject valuePrefab; // This is the value object which appears on the side panel
     public GameObject bluePanel; // This is the panel on the left of the screen
